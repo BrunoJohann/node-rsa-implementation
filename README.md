@@ -1,5 +1,3 @@
-# node-rsa-implementation
-
 # NODE-RSA-IMPLEMENTATION
 
 # Generate RSA key pair
